@@ -40,7 +40,7 @@ A multi-page Power BI report analyzing water source types, queue times, populati
 
 ---
 
-## 🚧 Upcoming Parts
+## Upcoming Parts
 
 | Part | Focus Area | Status |
 |------|------------|--------|
@@ -50,7 +50,7 @@ A multi-page Power BI report analyzing water source types, queue times, populati
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Power BI Desktop  
 - Power Query  
@@ -60,6 +60,6 @@ A multi-page Power BI report analyzing water source types, queue times, populati
 
 ---
 
-## 📣 About Me
+## About Me
 
 This repository is part of my learning journey through the **ALX Data Analytics** program.  
