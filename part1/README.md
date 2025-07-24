@@ -50,7 +50,7 @@ The report follows a structured storyline:
 -  [Dataset (.csv)](Md_summary.csv)
 -  [GeoJSON Map](MD_Provinces.json)
 -  [ALX Project Brief](Part_1.pdf)
--  [Sprint Weekly Test](./part1/weekly_test.pdf)
+-  [Sprint Weekly Test](Answer-Maji-Ndogo-part-1-MCQ.pdf)
 
 ---
 
@@ -69,7 +69,7 @@ The report follows a structured storyline:
 
 ---
 
-## 📸 Report Screenshots
+## Report Screenshots
 
 ![Water Access Page](first.jpg)
 
