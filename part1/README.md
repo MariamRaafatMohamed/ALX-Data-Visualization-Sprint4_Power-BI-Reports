@@ -46,13 +46,11 @@ The report follows a structured storyline:
 ---
 
 ##  Files in Repository
--  [Power BI Report (.pbix)](./part1/maji_ndogo_report.pbix)
--  [Dataset (.csv)](./part1/md_summary.csv)
--  [GeoJSON Map](./part1/maji_ndogo_map.json)
--  [Exported PDF Report](./part1/report_summary.pdf)
--  [ALX Project Brief](./part1/part_1.pdf)
+-  [Power BI Report (.pbix)](part1(maji_ndogo).pbix)
+-  [Dataset (.csv)](Md_summary.csv)
+-  [GeoJSON Map](MD_Provinces.json)
+-  [ALX Project Brief](Part_1.pdf)
 -  [Sprint Weekly Test](./part1/weekly_test.pdf)
-
 
 ---
 
@@ -70,4 +68,10 @@ The report follows a structured storyline:
 - CSV file 
 
 ---
+
+-  [(.jpg)](first.jpg)
+-  [(.png)](second.png)
+-  [(.png)](third.png)
+-  [(.png)](fourth.png)
+
 
