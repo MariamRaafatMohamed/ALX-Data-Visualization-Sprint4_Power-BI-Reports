@@ -56,7 +56,7 @@ The report follows a structured storyline:
 
 ##  External Link
 
-- LinkedIn project write-up: []
+-[LinkedIn project write-up](www.linkedin.com/feed/update/urn:li:activity:7354059199359713280/)
 
 ---
 
