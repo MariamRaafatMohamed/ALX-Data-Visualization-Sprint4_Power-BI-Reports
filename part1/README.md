@@ -19,7 +19,7 @@ The analysis did not require multiple table relationships — all visuals are ba
 
 ---
 
-## 📊 Report Pages
+##  Report Pages
 
 ### 1. Water Access by Location  
 Bar and pie charts comparing source types by area
@@ -46,14 +46,13 @@ The report follows a structured storyline:
 ---
 
 ##  Files in Repository
+-  [Power BI Report (.pbix)](./part1/maji_ndogo_report.pbix)
+-  [Dataset (.csv)](./part1/md_summary.csv)
+-  [GeoJSON Map](./part1/maji_ndogo_map.json)
+-  [Exported PDF Report](./part1/report_summary.pdf)
+-  [ALX Project Brief](./part1/part_1.pdf)
+-  [Sprint Weekly Test](./part1/weekly_test.pdf)
 
-- `maji_ndogo_report.pbix` – Power BI file  
-- `md_summary.csv` – Dataset  
-- `maji_ndogo_map.json` – Map file  
-- `report_summary.pdf`  
-- `alx_project_description.pdf`  
-- `weekly_test.pdf`  
-- `infographic_summary.png`
 
 ---
 
