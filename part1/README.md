@@ -69,9 +69,14 @@ The report follows a structured storyline:
 
 ---
 
--  [(.jpg)](first.jpg)
--  [(.png)](second.png)
--  [(.png)](third.png)
--  [(.png)](fourth.png)
+## 📸 Report Screenshots
+
+![Water Access Page](first.jpg)
+
+![National Overview](second.png)
+
+![Queue Time Analysis](third.png)
+
+![Queue Time Deep Dive](fourth.png)
 
 
