@@ -44,12 +44,12 @@ A multi-page Power BI report analyzing water source types, queue times, populati
 
 | Part | Focus Area | Status |
 |------|------------|--------|
-| Part 2 | Data modeling + relationships | [Power-BI-Sprint-ALX-Maji-Ndogo-Dashboard-Part-2](https://github.com/MariamRaafatMohamed/Power-BI-Sprint-ALX-Maji-Ndogo-Dashboard-Part-2) |
-| Part 3 | Advanced visuals & formatting | [Power-BI-Sprint-ALX-Maji-Ndogo-Dashboard-Part-3](https://github.com/MariamRaafatMohamed/Power-BI-Sprint-ALX-Maji-Ndogo-Dashboard-Part-3) |
+| Part 1 | visuals & formatting | [Power-BI-Sprint4-ALX-Maji-Ndogo-Dashboard-Part-1](https://github.com/MariamRaafatMohamed/alx-sprint4-maji-ndogo-report/tree/main/part1) |
+| Part 2 | Data modeling + relationships | [Power-BI-Sprint4-ALX-Maji-Ndogo-Dashboard-Part-2](https://github.com/MariamRaafatMohamed/Power-BI-Sprint-ALX-Maji-Ndogo-Dashboard-Part-2) |
+| Part 3 | Advanced visuals & formatting | [Power-BI-Sprint4-ALX-Maji-Ndogo-Dashboard-Part-3](https://github.com/MariamRaafatMohamed/Power-BI-Sprint-ALX-Maji-Ndogo-Dashboard-Part-3) |
 | Part 4 | Final dashboards + transparency | Coming soon |
 
 ---
-
 ## Tools Used
 
 - Power BI Desktop  
